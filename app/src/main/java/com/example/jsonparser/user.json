@@ -1,0 +1,15 @@
+{
+  "name": "bha",
+  "hobbies": ["dancing","singing"],
+"friends": [
+    {
+      "Fame": "Trevor",
+      "friends": [
+        {
+          "name": null,
+          "num": 12
+        }
+      ]
+    }
+  ]
+}
